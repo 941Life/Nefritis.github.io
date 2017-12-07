@@ -1,6 +1,7 @@
 ---
 layout: default
 comments : true
+tags : all portfolio something
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -14,6 +15,13 @@ comments : true
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}
+      
+      <ul>
+          {% for tags in page.tags %}
+          <li>{{ tags }}</li>
+          {% endfor %}
+      </ul>
+      
       {% if page.comments %}
       • <a href="https://nefritis.github.io{{ page.url }}#disqus_thread">0 Comments</a>
       {% endif %}
