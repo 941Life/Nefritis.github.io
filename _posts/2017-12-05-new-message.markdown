@@ -1,6 +1,6 @@
 ---
 layout : post
-comments:true
+comments: true
 title : "하이브레인넷"
 date : 2017-12-05
 ---
