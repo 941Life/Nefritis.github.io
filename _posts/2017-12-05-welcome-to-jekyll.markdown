@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-12-05 14:28:09 +0900
 categories: jekyll update
+description: :I created this beautiful looking Jekyll blog using default Jekyll template. You can also do this or fork a theme to make it yours. Jekyll is a simple blog generator. The community is growing and the number of plugins is also growing. Learn how to create Jekyll blog.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
