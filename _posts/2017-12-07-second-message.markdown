@@ -1,6 +1,6 @@
 ---
 layout : post
-comments:true
+comments: true
 title : "second blog"
 date : 2017-12-05
 ---
