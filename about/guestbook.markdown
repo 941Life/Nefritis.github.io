@@ -1,6 +1,7 @@
 ---
 permalink: "/about/"
 layout: page
+comments : true
 title:  "방명록"
 ---
 
