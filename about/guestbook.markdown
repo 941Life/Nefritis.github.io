@@ -1,7 +1,7 @@
 ---
 permalink: "/about/"
 layout: page
-title:  "About Us & 방명록"
+title:  "방명록"
 ---
 
 
