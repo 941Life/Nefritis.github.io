@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-disqus : https://nefritis.github.io
+disqus : https-nefritis-github-io
 
 # Build settings
 markdown: kramdown
