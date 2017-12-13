@@ -5,18 +5,17 @@ comments : true
 <article class="post">
 
   <header class="post-header">
-     <div class="w3-display-container w3-text-white">
-       <img class="w3-image" src="https://i.imgur.com/25zhGbg.jpg" alt="title" width="100%">
-       <div class="w3-padding w3-display-topleft">
          <h1 class="post-title">{{ page.title | escape }}</h1>
-         <div class="post-content">
-             {{ content }}
-         </div>
-       </div>
-     </div>
   </header>
 
-
+<div class="w3-display-container w3-text-white">
+    <img class="w3-image" src="https://i.imgur.com/25zhGbg.jpg" alt="title" width="100%">
+        <div class="w3-padding w3-display-topleft">
+            <div class="post-content">
+                {{ content }}
+            </div>
+        </div>
+        </div>
 
  <div class="fb-comments" data-href="https://nefritis.github.io{{ page.url }}" data-width="100%" ></div>
  
